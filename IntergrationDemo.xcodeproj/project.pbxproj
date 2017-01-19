@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					DF2409EA1E2F15CA00EDBD63 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = P8898UML7Q;
 						ProvisioningStyle = Automatic;
 					};
 					DF240A031E2F15CA00EDBD63 = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = P8898UML7Q;
 				INFOPLIST_FILE = IntergrationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.IntergrationDemo;
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = P8898UML7Q;
 				INFOPLIST_FILE = IntergrationDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.IntergrationDemo;
